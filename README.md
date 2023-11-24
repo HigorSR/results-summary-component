@@ -37,8 +37,8 @@ Abra http://localhost:3000 com seu navegador para ver o resultado.
 ## Screenshots
 
 <div align="center">
-  <img width="50%" src="./public/assets/desktop.png">
-  <img width="50%" src="./public/assets/mobile.png">
+  <img width="100%" src="./public/assets/desktop.png">
+  <img height="25%" src="./public/assets/mobile.png">
 </div>
 
 ## Stack utilizada
